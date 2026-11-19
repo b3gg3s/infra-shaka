@@ -12,3 +12,14 @@ Einordnung: Das Preisniveau liegt über dem Tiefwert der letzten 90 Tage und ist
 Reichweite: ca. 7,8 Wochen bis zur Bestellmarke 200 l (geschätzt 617 l heute; Ablesung 2026-11-15 625 l; Verbrauch 53,3 l/Woche aus Ablesungen 23.10. bis 15.11.; Tankanzeige grob ±50 l)
 Auslöser: keine
 Modell: aza-quality -> aza-quality, 19,0 s
+
+### Heizöl 2026-11-19 (shaka, Schatten)
+
+Heizöl 19.11.: 163,93 €/100 l (≈1.639 € gesamt), 700 l: n. v.
+Quelle/Abruf: esyoil PLZ 91080 direkt, Stand 05:13, lysop 2026-11-19T05:50:51+01:00
+Trend: Heute ist der Preis für 3.000 l um 1,44 € günstiger als gestern und um 5,1 % günstiger als vor einer Woche.
+Empfehlung: kaufen - Der Preis ist stabil günstiger als vor einer Woche, liegt über dem Bundesdurchschnitt, aber unter den historischen Höchstwerten und die Reichweite reicht bis zu 7,4 Wochen.
+Einordnung: Der Preis für 3.000 l liegt 1,18 € über dem Bundesdurchschnitt und liegt deutlich über den 4-wöchigen Tiefstwerten von 160,00 €.
+Reichweite: ca. 7,4 Wochen bis zur Bestellmarke 200 l (geschätzt 595 l heute; Ablesung 2026-11-15 625 l; Verbrauch 53,3 l/Woche aus Ablesungen 23.10. bis 15.11.; Tankanzeige grob ±50 l)
+Auslöser: guenstiger_3pct, kaufen – würde melden (Schattenbetrieb: keine Push)
+Modell: aza-quality -> aza-fast, 21,1 s, RÜCKFALL
