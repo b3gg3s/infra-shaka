@@ -1,17 +1,17 @@
 {
  "shaka_heizoel": "2026.11.16-2",
- "lauf": "2026-11-23T06:05:26+01:00",
- "datum": "2026-11-23",
+ "lauf": "2026-11-26T06:05:32+01:00",
+ "datum": "2026-11-26",
  "bewertung_gueltig": true,
  "gruende": [],
  "hinweise": [],
  "empfehlung": "beobachten",
  "antwort": [
-  "Trend: Der Preis für 1.000 l ist heute gleich wie gestern, während 3.000 l heute 7,4 % günstiger als vor einer Woche sind.",
-  "Einordnung: Der Preis liegt über dem Tiefstwert von 137,18 € (3.000 l) und ist 0,3 % (0,50 €) günstiger als der Bundesdurchschnitt (3.000 l).",
-  "Empfehlung: beobachten - Die Reichweite beträgt etwa 12,1 Wochen."
+  "Trend: Der Preis für 1.000 l ist heute 0,23 € günstiger als gestern, während 3.000 l heute 2,7 % günstiger als vor einer Woche sind.",
+  "Einordnung: Der Preis für 3.000 l liegt heute 0,5 % (0,75 €) unter dem Bundesdurchschnitt und über dem 3-Monats-Tiefstwert von 142,80 €.",
+  "Empfehlung: beobachten - Die Reichweite beträgt etwa 11,6 Wochen."
  ],
- "antwort_roh": "Trend: Der Preis für 1.000 l ist heute gleich wie gestern, während 3.000 l heute 7,4 % günstiger als vor einer Woche sind.\nEinordnung: Der Preis liegt über dem Tiefstwert von 137,18 € (3.000 l) und ist 0,3 % (0,50 €) günstiger als der Bundesdurchschnitt (3.000 l).\nEmpfehlung: beobachten - Die Reichweite beträgt etwa 12,1 Wochen.",
+ "antwort_roh": "Trend: Der Preis für 1.000 l ist heute 0,23 € günstiger als gestern, während 3.000 l heute 2,7 % günstiger als vor einer Woche sind.\nEinordnung: Der Preis für 3.000 l liegt heute 0,5 % (0,75 €) unter dem Bundesdurchschnitt und über dem 3-Monats-Tiefstwert von 142,80 €.\nEmpfehlung: beobachten - Die Reichweite beträgt etwa 11,6 Wochen.",
  "richtung": "ok",
  "ausloeser": {
   "guenstiger_3pct": false,
@@ -25,13 +25,13 @@
   "gruppe": "aza-quality",
   "versuche": "0",
   "modell": "aza-quality",
-  "dauer_s": 25.8,
+  "dauer_s": 22.1,
   "ende": "stop",
   "denk": 0,
   "usage": {
-   "completion_tokens": 117,
-   "prompt_tokens": 1059,
-   "total_tokens": 1176,
+   "completion_tokens": 121,
+   "prompt_tokens": 1061,
+   "total_tokens": 1182,
    "prompt_tokens_details": {
     "cached_tokens": 0
    }
@@ -46,15 +46,15 @@
   },
   "verbrauch_l_woche": 32.8,
   "verbrauch_quelle": "Ablesungen 06.11. bis 22.11.",
-  "stand_geschaetzt_l": 595,
-  "wochen": 12.1,
+  "stand_geschaetzt_l": 581,
+  "wochen": 11.6,
   "vorbehalt": [
    "Tankanzeige grob ±50 l"
   ]
  },
- "preis_1000": 159.4,
- "lysop_lauf": "2026-11-23T05:51:00+01:00",
- "eingabe": "<daten>\nQuelle: https://www.esyoil.com/heizoelpreise/heizoelpreise-uttenreuth-91080\nAbruf: 2026-11-23 05:51 (lokale Zeit); Stand laut Seite: 05:14 Uhr\nStandard-Heizöl EL, inkl. 19 % MwSt., Preise je 100 l, PLZ 91080 Uttenreuth\nMengentabelle (Menge: heute | gestern | Differenz):\n  700 l: n. v. (nicht in der Tabelle)\n  1.000 l: 159,40 | 159,40 | +0,00 (heute 0,00 € gleich wie gestern)\n  4.000 l: 154,52 | 154,52 | +0,00 (heute 0,00 € gleich wie gestern)\n  5.000 l: 154,11 | 154,28 | -0,17 (heute 0,17 € günstiger als gestern)\n  8.000 l: 153,62 | 153,93 | -0,31 (heute 0,31 € günstiger als gestern)\n  10.000 l: 153,51 | 153,81 | -0,30 (heute 0,30 € günstiger als gestern)\nGünstigstes Händlerangebot bei 3.000 l: 154,93 (Gesamt 4.647,78 €)\nHändlerliste 3.000 l: 12 Angebote von 154,93 bis 170,47\nVorwoche (3.000 l): heute 7,4 % günstiger als vor einer Woche\nBundesdurchschnitt (3.000 l): heute 0,3 % (0,50 €) günstiger als der Bundesdurchschnitt\nHöchstwerte (3.000 l): 4 Wochen 172,31 € (31.10.2026); 3 Monate 174,12 € (16.09.2026); 1 Jahr 174,12 € (16.09.2026)\nTiefstwerte (3.000 l): 4 Wochen 155,12 € (21.11.2026); 3 Monate 137,18 € (01.09.2026); 1 Jahr 88,27 € (04.12.2025)\nesyoil-Tiefpreissystem, technische Meinung: Sehr\n</daten>\nVergleich 1.000 l: letzter Lauf 2026-11-19 163,93, heute 159,40, Differenz -2,76 %\nNiedrigster eigener Wert (1.000 l, aus 4 bisherigen Werten der letzten 90 Tage): 163,93\nReichweite bis zur Bestellmarke 200 l: etwa 12,1 Wochen (geschätzt; Tankanzeige grob ±50 l)\n\nAufgabe: Schreibe genau drei Zeilen und sonst nichts.\nZeile 1: 'Trend: ' ein Satz, der Vortag und Vorwoche einordnet; die Vorwoche gilt laut Daten für 3.000 l: nenne diese Menge dazu und beziehe sie nie auf den 1.000-l-Preis.\nZeile 2: 'Einordnung: ' ein Satz, der das Preisniveau gegen Tiefstwerte und Bundesdurchschnitt einordnet; der Bundesdurchschnitt gilt laut Daten für 3.000 l: nenne diese Menge dazu.\nZeile 3: 'Empfehlung: ' genau eines der Wörter kaufen, beobachten oder warten, dann ' - ' und ein Satz Begründung (Preisniveau, Trend, Reichweite).",
- "eingabe_hash": "6f04335fec598d40",
- "bericht": "### Heizöl 2026-11-23 (shaka, Schatten)\n\nHeizöl 23.11.: 159,40 €/100 l (≈1.594 € gesamt), 700 l: n. v.\nQuelle/Abruf: esyoil PLZ 91080 direkt, Stand 05:14, lysop 2026-11-23T05:51:00+01:00\nTrend: Der Preis für 1.000 l ist heute gleich wie gestern, während 3.000 l heute 7,4 % günstiger als vor einer Woche sind.\nEmpfehlung: beobachten - Die Reichweite beträgt etwa 12,1 Wochen.\nEinordnung: Der Preis liegt über dem Tiefstwert von 137,18 € (3.000 l) und ist 0,3 % (0,50 €) günstiger als der Bundesdurchschnitt (3.000 l).\nReichweite: ca. 12,1 Wochen bis zur Bestellmarke 200 l (geschätzt 595 l heute; Ablesung 2026-11-22 600 l; Verbrauch 32,8 l/Woche aus Ablesungen 06.11. bis 22.11.; Tankanzeige grob ±50 l)\nAuslöser: neues_tief – würde melden (Schattenbetrieb: keine Push)\nModell: aza-quality -> aza-quality, 25,8 s\n"
+ "preis_1000": 157.08,
+ "lysop_lauf": "2026-11-26T05:51:38+01:00",
+ "eingabe": "<daten>\nQuelle: https://www.esyoil.com/heizoelpreise/heizoelpreise-uttenreuth-91080\nAbruf: 2026-11-26 05:51 (lokale Zeit); Stand laut Seite: 05:51 Uhr\nStandard-Heizöl EL, inkl. 19 % MwSt., Preise je 100 l, PLZ 91080 Uttenreuth\nMengentabelle (Menge: heute | gestern | Differenz):\n  700 l: n. v. (nicht in der Tabelle)\n  1.000 l: 157,08 | 157,31 | -0,23 (heute 0,23 € günstiger als gestern)\n  4.000 l: 152,25 | 151,72 | +0,53 (heute 0,53 € teurer als gestern)\n  5.000 l: 152,22 | 151,21 | +1,01 (heute 1,01 € teurer als gestern)\n  8.000 l: 152,15 | 150,84 | +1,31 (heute 1,31 € teurer als gestern)\n  10.000 l: 152,06 | 150,75 | +1,31 (heute 1,31 € teurer als gestern)\nGünstigstes Händlerangebot bei 3.000 l: 152,92 (Gesamt 4.587,45 €)\nHändlerliste 3.000 l: 12 Angebote von 152,92 bis 167,99\nVorwoche (3.000 l): heute 2,7 % günstiger als vor einer Woche\nBundesdurchschnitt (3.000 l): heute 0,5 % (0,75 €) günstiger als der Bundesdurchschnitt\nHöchstwerte (3.000 l): 4 Wochen 172,31 € (31.10.2026); 3 Monate 174,12 € (16.09.2026); 1 Jahr 174,12 € (16.09.2026)\nTiefstwerte (3.000 l): 4 Wochen 152,63 € (25.11.2026); 3 Monate 142,80 € (06.09.2026); 1 Jahr 88,27 € (04.12.2025)\nesyoil-Tiefpreissystem, technische Meinung: Sehr\n</daten>\nVergleich 1.000 l: letzter Lauf 2026-11-23 159,40, heute 157,08, Differenz -1,46 %\nNiedrigster eigener Wert (1.000 l, aus 5 bisherigen Werten der letzten 90 Tage): 159,40\nReichweite bis zur Bestellmarke 200 l: etwa 11,6 Wochen (geschätzt; Tankanzeige grob ±50 l)\n\nAufgabe: Schreibe genau drei Zeilen und sonst nichts.\nZeile 1: 'Trend: ' ein Satz, der Vortag und Vorwoche einordnet; die Vorwoche gilt laut Daten für 3.000 l: nenne diese Menge dazu und beziehe sie nie auf den 1.000-l-Preis.\nZeile 2: 'Einordnung: ' ein Satz, der das Preisniveau gegen Tiefstwerte und Bundesdurchschnitt einordnet; der Bundesdurchschnitt gilt laut Daten für 3.000 l: nenne diese Menge dazu.\nZeile 3: 'Empfehlung: ' genau eines der Wörter kaufen, beobachten oder warten, dann ' - ' und ein Satz Begründung (Preisniveau, Trend, Reichweite).",
+ "eingabe_hash": "1e5185520f7fe43a",
+ "bericht": "### Heizöl 2026-11-26 (shaka, Schatten)\n\nHeizöl 26.11.: 157,08 €/100 l (≈1.571 € gesamt), 700 l: n. v.\nQuelle/Abruf: esyoil PLZ 91080 direkt, Stand 05:51, lysop 2026-11-26T05:51:38+01:00\nTrend: Der Preis für 1.000 l ist heute 0,23 € günstiger als gestern, während 3.000 l heute 2,7 % günstiger als vor einer Woche sind.\nEmpfehlung: beobachten - Die Reichweite beträgt etwa 11,6 Wochen.\nEinordnung: Der Preis für 3.000 l liegt heute 0,5 % (0,75 €) unter dem Bundesdurchschnitt und über dem 3-Monats-Tiefstwert von 142,80 €.\nReichweite: ca. 11,6 Wochen bis zur Bestellmarke 200 l (geschätzt 581 l heute; Ablesung 2026-11-22 600 l; Verbrauch 32,8 l/Woche aus Ablesungen 06.11. bis 22.11.; Tankanzeige grob ±50 l)\nAuslöser: neues_tief – würde melden (Schattenbetrieb: keine Push)\nModell: aza-quality -> aza-quality, 22,1 s\n"
 }
